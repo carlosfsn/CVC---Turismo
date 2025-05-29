@@ -61,7 +61,7 @@ Este projeto está licenciado sob a licença [MIT License] - veja o arquivo [MIT
 ## 📧 Contato
 
 * [CARLOS SICSU] (carlosfnsicsu@gmail.com(mailto:carlosfnsicsu@gmail.com))
-https://www.linkedin.com /in/carlos-sics%C3%BA-131980236/
+https://www.linkedin.com/in/carlos-sics%C3%BA-131980236/
 
 * [EMILLY MORAIS] (moraisemilly358@gmail.com(mailto:moraisemilly358@gmail.com))
 http://linkedin.com/in/emilly-morais-bulcão-1a17bb2b2/
